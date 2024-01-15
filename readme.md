@@ -10,7 +10,7 @@ install requirements file
 ### Configure DB
 
 #### MySql
-You should see a line like this in <a href="./foody_api/settings.py">./foody_api/settings.py</a>
+You should see a line like this in <a href="./foodyapi/settings.py">./foodyapi/settings.py</a> 
 
 ```python
 

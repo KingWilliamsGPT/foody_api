@@ -1,0 +1,7 @@
+Django==5.0.1
+django-phonenumber-field==7.3.0
+djangorestframework==3.14.0
+mysqlclient @ file:///E:/Foody/mysqlclient-2.2.1-cp311-cp311-win_amd64.whl
+phonenumberslite==8.13.27
+Pillow==9.5.0
+Markdown==3.5.2

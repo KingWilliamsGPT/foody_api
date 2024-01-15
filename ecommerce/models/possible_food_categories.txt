@@ -1,0 +1,15 @@
+Fruits and Vegetables - Fresh produce like apples, bananas, tomatoes, carrots, etc.
+Meat and Seafood - Beef, chicken, fish, shrimp, etc.
+Dairy and Eggs - Milk, cheese, yogurt, eggs, etc.
+Bakery and Bread - Different types of bread, pastries, cakes, etc.
+Pantry Staples - Rice, pasta, flour, sugar, spices, oils, etc.
+Beverages - Soft drinks, juices, coffee, tea, alcoholic beverages, etc.
+Snacks and Sweets - Chips, cookies, chocolates, candies, etc.
+Frozen Foods - Frozen fruits, vegetables, ready-to-cook meals, ice cream, etc.
+Organic and Health Foods - Organic produce, gluten-free items, health supplements, etc.
+Canned and Packaged Goods - Canned vegetables, soups, sauces, packaged meals, etc.
+International Foods - Ethnic or international cuisines, including Asian, Mexican, Italian, etc.
+Condiments and Sauces - Ketchup, mustard, mayonnaise, salad dressings, etc.
+Grains and Legumes - Quinoa, lentils, beans, chickpeas, etc.
+Specialty and Gourmet Foods - High-end or specialized food items, artisanal products, gourmet cheeses, etc.
+Cooking Essentials - Cookware, utensils, kitchen tools, etc.
